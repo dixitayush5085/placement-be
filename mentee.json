@@ -1,0 +1,46 @@
+{
+    "name": "Ayush",
+    "skills": [{
+        "skill": "react",
+        "experience": "3"
+    }],
+    "experience": [],
+    "Education": [
+        {
+            "grad": "Btech CSE",
+            "year": 2020
+        }
+    ],
+    "family": {
+        "fatherName": "A",
+        "motherName": "B"
+    },
+    "location" : [
+        {"year": 2020, "location": "Kanpur"}
+    ],
+    "discussion": ["lorkeokr" ," loermeof"],
+    "observation": ["lorkeokr" ," loermeof"],
+    "remarks": ["lorkeokr" ," loermeof"],
+    "suggestions": ["lorkeokr" ," loermeof"],
+    "aspiration": ["lorkeokr" ," loermeof"],
+    "thoughtsAboutMentee": ["lorkeokr" ," loermeof"],
+    "weakness": ["lorkeokr" ," loermeof"],
+    "strenght": ["lorkeokr" ," loermeof"],
+    "goal": [
+        {
+            "goalName": "Full Stack",
+            "year": 2020
+        }
+    ],
+    "interview": [
+        {
+            "interview": "Full Stack",
+            "year": 2020,
+            "location": "Kanpur"
+        }
+    ],
+    "salary": [{
+        "year": 2020,
+        "salary": 12
+    }]
+}
